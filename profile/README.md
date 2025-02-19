@@ -1,20 +1,11 @@
-# De Saak
-Wij bij De Saak zijn gespecialiseerd in de ontwikkeling binnen Business Central voor het MKB. Automatiseren staat voor ons centraal, omdat we geloven dat efficiëntie en innovatie de sleutel zijn tot succes in de moderne zakenwereld.
+# 🌟 Welkom bij De Saak 🌟
 
-## 🚀 Innovatie: 
-We blijven altijd op de hoogte van de nieuwste technologieën en trends.
+Welkom bij de centrale hub voor al onze developers! Deze GitHub-pagina is exclusief voor onze medewerkers en dient als de belangrijkste bron voor al onze extensies en documentatie.
 
-## 🛠️ Expertise: 
-Ons team bestaat uit ervaren professionals met diepgaande kennis van Business Central.
+## Wat je hier kunt vinden:
 
-## 🌟 Klantgericht: 
-Jouw succes is ons succes. We werken nauw samen met onze klanten om hun doelen te bereiken.
+### 🛠️ Extensies
+Hier houden we al onze extensies bij. Je kunt de nieuwste versies downloaden, updates bekijken en bijdragen aan de ontwikkeling van nieuwe features.
 
-## 💻 Softwareontwikkeling: 
-Op maat gemaakte oplossingen die perfect aansluiten bij de behoeften van jouw bedrijf.
-
-## 🤝 Consultancy: 
-Deskundig advies om jouw bedrijf naar een hoger niveau te tillen.
-
-## 📊 Data-analyse: 
-Inzicht in bedrijfsgegevens om betere beslissingen te nemen.
+### 📚 Documentatie
+Toegang tot uitgebreide documentatie is hier beschikbaar om je te helpen bij het gebruik en de integratie van onze tools. Of je nu een nieuwe developer bent of een ervaren gebruiker, je vindt hier alle informatie die je nodig hebt.
